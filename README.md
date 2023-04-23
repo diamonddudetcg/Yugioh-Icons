@@ -2,7 +2,7 @@
 
 Assets for Yu-Gi-Oh! related projects! 
 
-Big thanks to [EmonyChan](https://twitter.com/EmonyChan) for the work on the attribute icons and the upscaling of the rest.
+Big thanks to [EmonyChan](https://twitter.com/EmonyChan) for her work on the attribute icons and the upscaling of the rest.
 
 You can download a zip version of these [here](https://github.com/diamonddudetcg/Yugioh-Icons/archive/refs/heads/main.zip)
 
