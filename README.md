@@ -30,28 +30,28 @@ You can download a zip version of these [here](https://github.com/diamonddudetcg
 
 | Type | Icon |
 | ---- | ---- |
-| Aqua | ![aqua](types/type_aqua.png) |
-| Beast | ![beast](types/type_beast.png) |
-| Beast-Warrior | ![beast-warrior](types/type_beast_warrior.png) |
-| Creator God | ![creator god](types/type_creator_god.png) |
-| Cyberse | ![cyberse](types/type_cyberse.png) |
-| Dinosaur | ![dinosaur](types/type_dinosaur.png) |
-| Divine Beast | ![divine beast](types/type_divine_beast.png) |
-| Dragon | ![dragon](types/type_dragon.png) |
-| Fairy | ![fairy](types/type_fairy.png) |
-| Fiend | ![fiend](types/type_fiend.png) |
-| Fish | ![fish](types/type_fish.png) |
-| Insect | ![insect](types/type_insect.png) |
-| Machine | ![machine](types/type_machine.png) |
-| Plant | ![plant](types/type_plant.png) |
-| Psychic | ![psychic](types/type_psychic.png) |
-| Pyro | ![pyro](types/type_pyro.png) |
-| Reptile | ![reptile](types/type_reptile.png) |
-| Rock | ![rock](types/type_rock.png) |
-| Sea Serpent | ![sea serpent](types/type_sea_serpent.png) |
-| Spellcaster | ![spellcaster](types/type_spellcaster.png) |
-| Thunder | ![thunder](types/type_thunder.png) |
-| Warrior | ![warrior](types/type_warrior.png) |
-| Winged Beast | ![winged beast](types/type_winged_beast.png) |
-| Wyrm | ![wyrm](types/type_wyrm.png) |
-| Zombie | ![zombie](types/type_zombie.png) |
+| Aqua | ![aqua](monster_types/type_aqua.png) |
+| Beast | ![beast](monster_types/type_beast.png) |
+| Beast-Warrior | ![beast-warrior](monster_types/type_beast_warrior.png) |
+| Creator God | ![creator god](monster_types/type_creator_god.png) |
+| Cyberse | ![cyberse](monster_types/type_cyberse.png) |
+| Dinosaur | ![dinosaur](monster_types/type_dinosaur.png) |
+| Divine Beast | ![divine beast](monster_types/type_divine_beast.png) |
+| Dragon | ![dragon](monster_types/type_dragon.png) |
+| Fairy | ![fairy](monster_types/type_fairy.png) |
+| Fiend | ![fiend](monster_types/type_fiend.png) |
+| Fish | ![fish](monster_types/type_fish.png) |
+| Insect | ![insect](monster_types/type_insect.png) |
+| Machine | ![machine](monster_types/type_machine.png) |
+| Plant | ![plant](monster_types/type_plant.png) |
+| Psychic | ![psychic](monster_types/type_psychic.png) |
+| Pyro | ![pyro](monster_types/type_pyro.png) |
+| Reptile | ![reptile](monster_types/type_reptile.png) |
+| Rock | ![rock](monster_types/type_rock.png) |
+| Sea Serpent | ![sea serpent](monster_types/type_sea_serpent.png) |
+| Spellcaster | ![spellcaster](monster_types/type_spellcaster.png) |
+| Thunder | ![thunder](monster_types/type_thunder.png) |
+| Warrior | ![warrior](monster_types/type_warrior.png) |
+| Winged Beast | ![winged beast](monster_types/type_winged_beast.png) |
+| Wyrm | ![wyrm](monster_types/type_wyrm.png) |
+| Zombie | ![zombie](monster_types/type_zombie.png) |
