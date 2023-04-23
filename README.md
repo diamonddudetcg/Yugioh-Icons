@@ -2,6 +2,8 @@
 
 Assets for Yu-Gi-Oh! related projects!
 
+You can download a zip version of these [here](https://github.com/diamonddudetcg/Yugioh-Icons/archive/refs/heads/main.zip)
+
 ## Attribute Icons
 
 ![Dark Attribute Icon](att_dark.png) ![Light Attribute Icon](att_light.png)![Water Attribute Icon](att_water.png) 
